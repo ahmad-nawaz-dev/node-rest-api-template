@@ -1093,7 +1093,7 @@ This project is licensed under the ISC License.
 
 **Ahmad Nawaz**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@ahmad-nawaz-dev](https://github.com/ahmad-nawaz-dev)
 - Email: your-email@example.com
 
 ---
@@ -1111,9 +1111,7 @@ This project is licensed under the ISC License.
 
 Need help? Here are your options:
 
-- 📧 **Email**: your-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/repo/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/repo/discussions)
+- 📧 **Email**: ahmadnawaz6300@gmail.com
 
 ---
 
