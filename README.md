@@ -1094,7 +1094,7 @@ This project is licensed under the ISC License.
 **Ahmad Nawaz**
 
 - GitHub: [@ahmad-nawaz-dev](https://github.com/ahmad-nawaz-dev)
-- Email: your-email@example.com
+- Email: ahmadnawaz6300@gmail.com
 
 ---
 
